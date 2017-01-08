@@ -1,0 +1,13 @@
+{
+  "name": "bot-test",
+  "version": "0.0.0",
+  "description": "BotTest",
+  "main": "index.js",
+  "author": {
+    "name": "Ganesh_M"
+  },
+  "dependencies": {
+    "botbuilder": "^3.5.1",
+    "restify": "^4.3.0"
+  }
+}
